@@ -31,3 +31,10 @@ To-do list:
 
 The main thrust of this project was to work with more advanced features of the SalesForce platform including programmatic solutions such as VisualForce and Apex as well as robust declarative tools such as Flow Builder.
 
+## Contributors
+
+Carlos Concepcion
+Timothy Hinga
+Deepika Chandran
+Reis Taylor
+
