@@ -8,7 +8,7 @@ This project revolves around the creation of a unique organization within the Sa
 
 * Declarative Tools of the SalesForce Platform such as Lightning App Builder and Flow Builder
 * Programmatic Tools of the SalesForce Platform such as Apex and VisualForce.
-* 
+* GIT for our Scrumban purposes.
 
 ## Features
 
